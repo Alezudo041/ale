@@ -16,12 +16,16 @@ p {
 body {
     background-color: rgb(143, 160, 155);
 }
-
-body {
     
 .imagem1 {
     width: 200px;
 }
 .imagemcentralizada {
  text-align: center;
+}
+
+.lista {
+    display: inline-block;
+    padding: 5%;
+    margin-right: 10%;
 }
